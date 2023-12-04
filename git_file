@@ -1,0 +1,12 @@
+Git Install
+yum install git -y 		| Install Git 
+mkdir <git-folder> 		| Create Folder 
+cd <git-folder> 		| Change Directory to git folder
+git init				| Initiate git Repository in local 
+git config –global user.name “Kavitha” 		| Set user name 
+git config –global user.email “kavitha@gmail.com” 		| Set email 
+vi git_file 			| Create a new file 
+
+
+
+
