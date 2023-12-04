@@ -8,5 +8,6 @@ git config –global user.email “kavitha@gmail.com” 		| Set email
 vi git_file 			| Create a new file 
 
 
+Adding line
 
 
